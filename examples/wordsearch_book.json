@@ -1,0 +1,27 @@
+{
+  "title_html": "Large Print<br>Word Search",
+  "title_plain": "Large Print Word Search",
+  "subtitle": "A Small Sample Book of Easy Puzzles",
+  "brand": "Example Press",
+  "prompt_label": "Did you know?",
+  "example": "APPLE PIE",
+  "size": 14,
+  "seed": 7,
+  "intro_paragraphs": [
+    "This is a sample book built from examples/wordsearch_book.json.",
+    "Replace the puzzles below with your own original word lists before publishing anything."
+  ],
+  "memory_title": "Notes",
+  "memory_prompt": "Write down your favourite words from this book.",
+  "end_title": "Thank You!",
+  "puzzles": [
+    ["In the Kitchen", "Most kitchens have more tools than their owners remember buying.",
+     ["APPLE PIE", "OVEN", "KETTLE", "SPOON", "LADLE", "WHISK", "TOASTER", "COLANDER", "APRON", "SKILLET", "TEAPOT", "BLENDER"]],
+    ["At the Beach", "Sand is mostly tiny grains of quartz worn down over thousands of years.",
+     ["SEASHELL", "SANDCASTLE", "TOWEL", "UMBRELLA", "WAVES", "PIER", "SUNHAT", "BUCKET", "SPADE", "SEAGULL", "TIDE", "DUNES"]],
+    ["Garden Birds", "A robin can sing almost all year round.",
+     ["ROBIN", "SPARROW", "FINCH", "WREN", "BLUEJAY", "CARDINAL", "DOVE", "STARLING", "THRUSH", "MAGPIE", "SWALLOW", "BLUEBIRD"]],
+    ["On the Farm", "A cow can drink a bathtub of water each day.",
+     ["TRACTOR", "BARN", "HAYSTACK", "ORCHARD", "FENCE", "MEADOW", "CHICKEN", "GOAT", "SHEEP", "PASTURE", "SILO", "WHEAT"]]
+  ]
+}

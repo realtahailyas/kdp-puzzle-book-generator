@@ -1,0 +1,5 @@
+pypdf>=4.0          # PDF reading, page boxes (cover.py, qa.py, check_pdf.py)
+pypdfium2>=4.0      # PDF rendering for QA and PNG previews
+numpy>=1.24         # pixel checks in qa.py
+Pillow>=10.0        # image output from pypdfium2
+pymupdf>=1.24       # optional: shrinks Chrome PDFs, large-print font-size check

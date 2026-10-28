@@ -1,0 +1,428 @@
+WERE|Used to be
+COME|Arrive
+LIFE|Existence
+JUNE|Month after May
+JULY|Month after June
+SITE|Location
+EYES|Seeing organs
+RUNS|Jogs
+GOES|Leaves
+SEEM|Appear
+WHOM|To ___ it may concern
+USES|Puts to work
+BOYS|Young lads
+LOSS|Defeat
+TILL|Until
+ONES|Dollar bills
+CARS|Autos
+SOLO|Alone
+MAMA|Mommy
+SEMI|Big rig
+SONS|Male children
+LAWS|Rules
+FANS|Supporters
+ACTS|Performs
+WAYS|Methods
+FUND|Savings account
+SETS|Puts down
+NUTS|Squirrel snacks
+GROW|Get bigger
+HITS|Strikes
+WINS|Victories
+LOTS|Plenty
+SEES|Notices
+BLEW|Puffed out candles
+GREY|Silvery color
+ENDS|Finishes
+RENT|Monthly apartment payment
+OURS|Belonging to us
+DISC|Flat circle
+LETS|Allows
+TIED|Knotted
+PUTS|Places
+EGGS|Breakfast items
+BAGS|Luggage
+CLAN|Family group
+MATE|Partner
+DUAL|Twofold
+HERS|Not his
+MINI|Very small
+WORN|Used
+OWNS|Possesses
+TIER|Wedding cake layer
+TORN|Ripped
+AXIS|Earth spins on it
+ASKS|Questions
+OOPS|"My mistake!"
+TOSS|Throw
+FITS|Suits
+DEBT|Money owed
+LIMO|Fancy car
+PEER|Look closely
+OUCH|"That hurts!"
+SPAN|Length of time
+WHEW|"What a relief!"
+HEIR|Inheritor
+DAME|Lady
+BUGS|Insects
+PAYS|Settles a bill
+EXAM|Test
+FEES|Charges
+TONS|Large amounts
+TIPS|Helpful hints
+DISK|Computer storage
+PLUG|Electric connector
+OATH|Promise
+SORE|Achy
+DORM|College housing
+CAPS|Hats
+EATS|Has a meal
+CUTS|Slices
+TORE|Ripped
+POPS|Bursts
+ALLY|Friend
+VALE|Valley
+OWES|Is in debt
+SITS|Takes a seat
+BATS|Flying mammals
+COWS|Milk givers
+SCAN|Look over
+EYED|Looked at
+TOPS|Lids
+FLEE|Run away
+MYTH|Legend
+SUNK|Under the sea
+GEEK|Computer whiz
+COVE|Small bay
+BITS|Pieces
+SANE|Sensible
+TRAM|Streetcar
+TICK|Clock sound
+SANK|Went under
+RIBS|Chest bones
+SEAS|Oceans
+CUPS|Teacups
+MARE|Female horse
+BUYS|Purchases
+LIMB|Tree branch
+BEEP|Horn honk
+OWED|Was in debt
+RAMS|Male sheep
+AIRS|Puts on ___ (shows off)
+CANS|Soup containers
+ROWS|Lines of seats
+INFO|Facts, for short
+PALS|Buddies
+MERE|Only
+WOOF|Dog's bark
+VOID|Empty space
+LABS|Science rooms
+BRED|Raised, as animals
+RAYS|Sunbeams
+BEDS|Places to sleep
+VENT|Air outlet
+MOMS|Mothers
+IONS|Charged atoms
+NUMB|Without feeling
+LAVA|Volcano flow
+ZINC|Metal in pennies
+TENS|Ten-dollar bills
+GRAM|Small weight
+PHEW|"That was close!"
+DAMS|River barriers
+NILE|Egypt's river
+PAWN|Chess piece
+TURF|Lawn grass
+FONT|Typeface
+PUFF|Short breath
+FARE|Bus ticket price
+BUNS|Hamburger breads
+VIAL|Small bottle
+NERD|Bookworm
+FUSE|Electrical safety device
+FLAW|Defect
+TABS|Bills at a cafe
+MEND|Repair
+HIPS|Body joints
+WEEP|Cry
+MART|Store
+COOP|Chicken house
+DOTS|Spots
+DUCT|Air tube
+WITS|Cleverness
+ITCH|Need to scratch
+GRAD|Diploma holder
+SHOO|"Go away!"
+WHIZ|Expert
+MASH|Crush potatoes
+PIES|Pastries
+NOSY|Too curious
+HOOT|Owl's call
+SNAG|Small problem
+PINS|Sewing needles
+PROS|Experts
+DIGS|Uses a shovel
+DADS|Fathers
+ALAS|"Too bad!"
+WHIM|Sudden notion
+VETO|Reject
+MEOW|Cat's sound
+LURE|Fishing bait
+SMUG|Self-satisfied
+LONE|Single
+YUCK|"Gross!"
+ALOE|Soothing plant
+BEET|Red root vegetable
+BIBS|Babies' mealtime covers
+BOOM|Loud noise
+CHAP|Fellow
+CLOG|Wooden shoe
+CRAM|Study hard
+DUNE|Sand hill
+FLAN|Custard dessert
+FLEX|Bend a muscle
+FLOP|Failure
+GALA|Fancy party
+GERM|Microbe
+GLEN|Valley
+GRUB|Food, slangily
+HAZY|Foggy
+HEMS|Skirt edges
+HONE|Sharpen
+HUSK|Corn covering
+INKY|Very dark
+JEST|Joke
+JOLT|Sudden jerk
+KALE|Leafy green
+KEEL|Ship's bottom
+KILN|Pottery oven
+LEEK|Onion relative
+LIEU|In ___ of (instead of)
+LOBE|Earlobe
+LORE|Tradition
+MAZE|Puzzle of paths
+MEEK|Mild
+MESA|Flat-topped hill
+MINK|Furry animal
+MOCK|Make fun of
+MUSH|Porridge
+NAPE|Back of the neck
+OMIT|Leave out
+OOZE|Seep
+PANE|Window glass
+PARE|Peel
+PEAT|Garden moss
+PECK|Bird's tap
+PEEK|Quick look
+PERT|Lively
+PLOD|Walk slowly
+PLOP|Fall with a splash
+POSH|Fancy
+PUCK|Hockey disk
+PUMA|Mountain lion
+PURR|Happy cat sound
+REEL|Fishing spool
+RIND|Lemon peel
+RUSE|Trick
+SEEP|Leak slowly
+SILO|Grain tower
+SILT|River mud
+SKEW|Slant
+SLAB|Thick slice
+SLAT|Blind strip
+SLAW|Cabbage salad
+SLUG|Garden pest
+SMOG|City haze
+SNUG|Cozy
+SNOB|Stuck-up person
+SOOT|Chimney dust
+SPAT|Little quarrel
+SPUD|Potato
+STUB|Ticket part
+SWAB|Cotton tip
+SWAY|Rock gently
+TACO|Mexican shell food
+TALC|Baby powder
+TARP|Waterproof cover
+TART|Sour
+TAUT|Tight
+TEAL|Blue-green
+TEEN|Thirteen-year-old
+TILT|Lean
+TINT|Light color
+TOTE|Carryall bag
+TUFT|Clump of hair
+TUSK|Elephant's tooth
+UGLY|Not pretty
+WAFT|Drift through the air
+WARP|Bend out of shape
+WEAN|Stop nursing
+WELD|Join metal
+WHEY|Curds' partner
+WICK|Candle string
+WILT|Droop
+WIRY|Thin but strong
+WISP|Thin strand
+WOVE|Made a basket
+YELP|Puppy's cry
+YOKE|Oxen's harness
+ZANY|Wacky
+ZEAL|Enthusiasm
+ZEST|Lemon peel
+ZOOS|Animal parks
+CATS|Purring pets
+DOGS|Barking pets
+HATS|Caps
+PANS|Skillets
+POTS|Cooking pots
+TOYS|Playthings
+BOWS|Ribbons
+MUGS|Coffee cups
+JUGS|Pitchers
+LIDS|Covers
+LOGS|Firewood
+NETS|Fishing tools
+PEGS|Hooks
+PODS|Pea holders
+TIES|Neckties
+DAYS|Calendar squares
+YEAR|365 days
+ARCS|Curves
+ACES|Experts
+AGED|Older
+APES|Gorillas
+AWED|Amazed
+BEAD|Craft bauble
+BUDS|Flowers about to open
+BUSES|School rides
+CODS|White fishes
+COTS|Camp beds
+CUBS|Young bears
+DENS|Cozy rooms
+DIPS|Salsa and guacamole
+DOES|Female deer
+DYES|Colors fabric
+EARS|Corn units
+ELMS|Shade trees
+ERAS|Ages
+EVES|Nights before
+FIGS|Sweet fruits
+FINS|Fish parts
+FIRS|Evergreens
+GAPS|Openings
+GEMS|Jewels
+GUMS|Teeth holders
+HENS|Egg layers
+HOES|Garden tools
+HUTS|Small shelters
+INNS|Small hotels
+JAYS|Blue birds
+JETS|Fast planes
+KEYS|Door openers
+KITS|Sets of tools
+LAPS|Pool lengths
+LEGS|Limbs
+LIPS|Mouth parts
+MAPS|Road guides
+MATS|Welcome rugs
+MOPS|Floor cleaners
+NAPS|Short sleeps
+OAKS|Acorn trees
+OARS|Rowing tools
+ORES|Mined rocks
+OWLS|Night birds
+PADS|Writing tablets
+PAWS|Pet's feet
+PEAS|Green veggies
+PENS|Writing tools
+PETS|Dogs and cats
+POEMS|Verses
+RAGS|Cleaning cloths
+RATS|Rodents
+RIMS|Edges
+ROBS|Steals from
+RODS|Fishing poles
+RUGS|Floor mats
+SAWS|Carpenter's tools
+SEAMS|Sewn lines
+SKIS|Snow gliders
+SUMS|Totals
+SUNS|Stars
+TABS|Restaurant bills
+TAGS|Labels
+TANS|Summer glows
+TEES|Golf pegs
+TOES|Foot digits
+TUBS|Bathtubs
+URNS|Large vases
+VANS|Minivans
+VETS|Animal doctors
+WEBS|Spider homes
+WIGS|Fake hairdos
+YAMS|Sweet potatoes
+ACHY|Sore all over
+AIDS|Helps
+AIMS|Points
+ALES|Pub drinks
+ARMS|Limbs
+BEAMS|Rays
+BEES|Buzzers
+BOAS|Feathery scarves
+BOGS|Swamps
+COGS|Gear teeth
+DEWY|Moist in the morning
+EELS|Slippery swimmers
+EGGY|Like an omelet
+ELKS|Big deer
+EMUS|Big birds
+FOES|Enemies
+FOGS|Mists
+GALS|Ladies
+GELS|Hair products
+GOAT|Billy's kind
+HUBS|Wheel centers
+HUES|Colors
+HUGS|Warm embraces
+ICED|Chilled
+JAMS|Spreads
+JOGS|Runs slowly
+JOTS|Writes quickly
+KIDS|Children
+LADS|Young fellows
+LIES|Rests
+LOBS|High throws
+MEWS|Kitten cries
+NODS|Says yes silently
+OATS|Grains
+ODES|Poems of praise
+OPTS|Chooses
+OWNS|Has
+PALM|Hand part
+PATS|Gentle taps
+PEPS|Energizes, with "up"
+PITS|Cherry centers
+PLYS|Layers
+PUBS|Taverns
+PUNS|Plays on words
+RAYS|Beams
+REDS|Colors of cherries
+RIBS|Chest bones
+ROTS|Decays
+RUBS|Massages
+SAPS|Drains
+SIPS|Small drinks
+SOBS|Cries hard
+SPAS|Health resorts
+SPYS|Snoops
+TAPS|Faucets
+TINS|Metal cans
+TOTS|Toddlers
+TOWS|Pulls
+TUGS|Pulls hard
+VOWS|Promises
+WAGS|Shakes a tail
+WAXY|Like a candle
+WETS|Dampens
+YAKS|Shaggy oxen
+YAPS|Barks
+ZAPS|Microwaves

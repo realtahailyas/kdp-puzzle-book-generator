@@ -1,0 +1,111 @@
+AFT|Toward the back of a boat
+AIL|Feel unwell
+ALP|Swiss peak
+AMP|Unit of current
+APP|Phone program
+ASP|Small snake
+AYE|Sailor's yes
+BAA|Sheep sound
+BAM|"Pow!"
+BRR|"It's cold!"
+CAW|Crow's call
+COO|Pigeon sound
+DIN|Loud noise
+EGO|Self-image
+EWE|Female sheep
+FAD|Passing craze
+FIB|Little lie
+GAB|Chatter
+GAG|Joke
+GEE|"Golly!"
+GOO|Sticky stuff
+HEM|Skirt edge
+HUH|"What?"
+ICK|"Yuck!"
+JAB|Quick punch
+LAX|Loose
+LEI|Hawaiian necklace
+LOB|High, soft throw
+LYE|Soap ingredient
+MEW|Kitten's cry
+MID|Middle
+MOO|Cow's sound
+MUM|Silent
+NAY|Vote against
+NIL|Nothing
+NUB|Small bump
+OAF|Clumsy fellow
+OHM|Unit of resistance
+PAR|Golf standard
+POP|Fizzy drink
+PRO|Expert
+PUG|Flat-faced dog
+PUN|Play on words
+RAH|Cheer
+REF|Game official
+REV|Race an engine
+SHH|"Quiet!"
+SIS|Sister, for short
+TAT|Tit for ___
+TIC|Twitch
+TOM|Male cat
+TOR|Rocky hill
+TUX|Formal suit
+UGH|"Yuck!"
+UMP|Baseball official
+VEX|Annoy
+VIE|Compete
+WAD|Lump of gum
+WOE|Sorrow
+WRY|Dryly humorous
+YAY|"Hooray!"
+YEN|Strong desire
+YIP|Puppy's bark
+YUP|"Sure!"
+PLY|Layer of tissue
+LEE|Sheltered side
+SUP|Eat supper
+NIX|Say no to
+GAL|Young woman
+DOH|"Silly me!"
+BOO|Jeer
+TUT|"Tsk!"
+MAC|Raincoat
+COB|Male swan
+NAG|Pester
+OPS|Photo ___
+ELL|L-shaped wing
+TOG|Dress up, with "up"
+PAP|Soft baby food
+DOS|Hairstyles
+AWN|Bristle on grain
+RIN|Japanese coin
+EMS|Printer's spaces
+PEC|Chest muscle
+ABS|Stomach muscles
+ADS|Commercials
+AHS|Sighs of relief
+ARF|Dog's bark
+BOP|Light tap
+COX|Rowing team leader
+DAB|Small bit
+DEW|Morning drops
+EEK|"A mouse!"
+FAX|Send a document by phone line
+GNU|Wildebeest
+HUB|Airport center
+INS|Connections
+IVY|Climbing plant
+JOT|Write down
+KIT|First aid ___
+LIT|Turned on
+NAP|Snooze
+NOD|Doze off
+OAT|Breakfast grain
+OUT|Not home
+RAG|Dust cloth
+SAG|Droop
+TAD|Smidgen
+TOT|Tiny child
+WEE|Little
+ZIT|Pimple

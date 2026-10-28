@@ -1,0 +1,376 @@
+ACE|Expert pilot
+ACT|Part of a play
+ADD|Find the sum
+AGE|Number of birthdays
+AGO|In the past
+AID|Help
+AIM|Point at a target
+AIR|What we breathe
+ALL|Every one
+AND|Plus
+ANT|Picnic pest
+ANY|Even one
+APE|Large primate
+APT|Fitting; suitable
+ARC|Curved line
+ARE|"You ___ welcome"
+ARK|Big boat of old stories
+ARM|Elbow's limb
+ART|Paintings and sculpture
+ASH|Fireplace leftover
+ASK|Pose a question
+ATE|Had dinner
+AWE|Wonder
+AXE|Woodcutter's tool
+BAD|Not good
+BAG|Grocery sack
+BAT|Baseball stick
+BAY|Body of water by the coast
+BED|Place to sleep
+BEE|Honey maker
+BEG|Plead
+BIB|Baby's mealtime cover
+BID|Offer at an auction
+BIG|Large
+BIN|Storage box
+BIT|Small piece
+BOA|Feathery scarf
+BOB|Short haircut
+BOG|Marsh
+BOW|Ribbon knot
+BOX|Cardboard container
+BOY|Young lad
+BUD|Flower before it opens
+BUG|Small insect
+BUN|Bread roll
+BUS|School ride
+BUT|However
+BUY|Purchase
+BYE|"See you later"
+CAB|Taxi
+CAN|Soup container
+CAP|Baseball hat
+CAR|Family vehicle
+CAT|Purring pet
+COB|Corn center
+COD|White fish
+COG|Gear tooth
+COT|Camp bed
+COW|Milk giver
+COY|Shy
+CRY|Shed tears
+CUB|Young bear
+CUD|What a cow chews
+CUE|Signal to start
+CUP|Tea holder
+CUT|Snip with scissors
+DAB|Small amount
+DAD|Father
+DAM|River barrier
+DAY|Twenty-four hours
+DEN|Cozy room
+DEW|Morning moisture on grass
+DID|Performed
+DIG|Use a shovel
+DIM|Not bright
+DIP|Chips go with it
+DOE|Female deer
+DOG|Barking pet
+DOT|Small round mark
+DRY|Not wet
+DUE|Owed
+DUG|Used a spade
+DYE|Hair color product
+EAR|Listening organ
+EAT|Have a meal
+EBB|Low tide
+EEL|Slippery fish
+EGG|Omelet need
+ELF|Pointy-eared storybook character
+ELK|Large deer
+ELM|Shade tree
+EMU|Big bird from Australia
+END|Finish
+ERA|Period of time
+ERR|Make a mistake
+EVE|Night before
+EYE|Seeing organ
+FAN|Cooling device
+FAR|Not near
+FAT|Plump
+FED|Gave food to
+FEE|Charge for a service
+FEW|Not many
+FIG|Sweet fruit
+FIN|Fish part
+FIR|Evergreen tree
+FIT|In good shape
+FIX|Repair
+FLU|Winter illness
+FLY|Buzzing insect
+FOE|Enemy
+FOG|Morning mist
+FOR|In favor of
+FOX|Sly animal
+FRY|Cook in oil
+FUN|Enjoyment
+FUR|Animal coat
+GAP|Opening
+GAS|Car fuel
+GEL|Hair product
+GEM|Precious stone
+GET|Receive
+GUM|Chewy treat
+GUT|Belly
+GUY|Fellow
+GYM|Exercise place
+HAD|Owned
+HAT|Head cover
+HAY|Horse food
+HEN|Egg layer
+HER|Not him
+HEW|Chop
+HID|Played hide-and-seek
+HIM|Not her
+HIP|Body joint
+HIS|Not hers
+HIT|Strike
+HOE|Garden tool
+HOP|Bunny's move
+HOT|Very warm
+HOW|In what way
+HUB|Center of a wheel
+HUE|Shade of color
+HUG|Warm embrace
+HUM|Buzz like a bee
+HUT|Simple shelter
+ICE|Frozen water
+ICY|Slippery in winter
+ILL|Sick
+INK|Pen fluid
+INN|Small hotel
+ION|Charged particle
+IRE|Anger
+ITS|Belonging to it
+IVY|Climbing vine
+JAM|Toast spread
+JAR|Glass container
+JAW|Chin bone
+JAY|Blue bird
+JET|Fast plane
+JOB|Occupation
+JOG|Slow run
+JOT|Write quickly
+JOY|Happiness
+JUG|Milk pitcher
+KEG|Small barrel
+KEY|Door opener
+KID|Child
+KIN|Relatives
+KIT|Set of tools
+LAB|Science room
+LAD|Young boy
+LAG|Fall behind
+LAP|Once around the track
+LAW|Rule
+LAY|Put down
+LED|Guided
+LEG|Knee's limb
+LET|Allow
+LID|Pot cover
+LIE|Recline
+LIP|Mouth edge
+LIT|Turned on, as a lamp
+LOG|Fireplace wood
+LOT|Parking area
+LOW|Not high
+MAD|Angry
+MAN|Gentleman
+MAP|Road guide
+MAT|Welcome rug
+MAY|Month after April
+MEN|Gentlemen
+MET|Was introduced to
+MIX|Stir together
+MOB|Large crowd
+MOM|Mother
+MOP|Floor cleaner
+MUD|Wet dirt
+MUG|Coffee cup
+NAP|Short sleep
+NET|Fishing tool
+NEW|Not old
+NIB|Pen point
+NOD|Say yes with the head
+NOR|Neither's partner
+NOT|In no way
+NOW|At this moment
+NUT|Squirrel's snack
+OAK|Acorn tree
+OAR|Rowing tool
+OAT|Cereal grain
+ODD|Strange
+OFF|Not on
+OFT|Often, in poems
+OIL|Cooking liquid
+OLD|Not new
+ONE|Single
+OPT|Choose
+ORB|Sphere
+ORE|Mined rock
+OUR|Belonging to us
+OUT|Not in
+OWE|Be in debt
+OWL|Night bird
+OWN|Possess
+PAD|Writing tablet
+PAL|Buddy
+PAN|Frying ___
+PAT|Gentle tap
+PAW|Dog's foot
+PAY|Wages
+PEA|Green pod veggie
+PEG|Coat hook
+PEN|Writing tool
+PET|Dog or cat
+PIE|Apple dessert
+PIN|Sewing item
+PIT|Peach center
+POD|Pea holder
+POT|Cooking vessel
+PRY|Snoop
+PUB|Neighborhood eatery in England
+PUP|Young dog
+PUT|Place
+RAG|Cleaning cloth
+RAM|Male sheep
+RAN|Jogged
+RAT|Rodent
+RAW|Uncooked
+RAY|Beam of light
+RED|Color of a ripe tomato
+RIB|Chest bone
+RID|Get ___ of
+RIM|Edge of a cup
+RIP|Tear
+ROB|Steal from
+ROD|Fishing pole
+ROT|Decay
+ROW|Paddle a boat
+RUB|Massage
+RUG|Floor covering
+RUN|Move fast
+RUT|Groove in a road
+RYE|Bread grain
+SAD|Unhappy
+SAG|Droop
+SAP|Tree fluid
+SAT|Took a seat
+SAW|Carpenter's tool
+SAY|Speak
+SEA|Ocean
+SEE|Look at
+SET|Put in place
+SEW|Use a needle and thread
+SHE|That woman
+SHY|Bashful
+SIP|Small drink
+SIR|Polite address for a man
+SIT|Take a seat
+SIX|Half a dozen
+SKI|Glide on snow
+SKY|Where clouds float
+SLY|Crafty
+SOB|Cry hard
+SON|Male child
+SOY|Bean used for tofu
+SPA|Relaxing resort
+SPY|Secret agent
+STY|Eyelid bump
+SUM|Total
+SUN|Daytime star
+TAB|Restaurant bill
+TAG|Price label
+TAN|Summer skin color
+TAP|Faucet
+TAR|Road goo
+TEA|Hot drink with honey
+TEN|Number of fingers
+THE|Definite article
+TIE|Necktie
+TIN|Metal can
+TIP|Server's reward
+TOE|Foot digit
+TON|Very heavy weight
+TOO|Also
+TOP|Spinning toy
+TOW|Pull a car
+TOY|Plaything
+TRY|Attempt
+TUB|Bath
+TUG|Pull hard
+TWO|Pair
+URN|Large vase
+USE|Utilize
+VAN|Moving vehicle
+VAT|Large tank
+VET|Animal doctor
+VOW|Promise
+WAG|Shake a tail
+WAR|Battle
+WAX|Candle material
+WAY|Path
+WEB|Spider's creation
+WET|Damp
+WHO|Which person
+WHY|For what reason
+WIG|Fake hair
+WIN|Come in first
+WIT|Humor
+WOK|Stir-fry pan
+WON|Came in first
+WOO|Try to win over
+WOW|"Amazing!"
+YAK|Shaggy ox
+YAM|Sweet potato
+YAP|Small dog's bark
+YARD|Lawn
+YAWN|Sign of sleepiness
+YES|Opposite of no
+YET|Still
+YOU|Not me
+ZAP|Hit with a quick jolt
+ZEN|Calm state
+ZIP|Close a jacket
+ZOO|Animal park
+OLE|Cheer at a bullfight
+AHA|"I get it!"
+YUM|"Tasty!"
+OOH|Sound of delight
+HEY|"Over here!"
+TAX|Government fee
+GAL|Young woman
+EKE|Barely make, with "out"
+NAB|Catch
+MAR|Spoil
+TAD|Little bit
+VIA|By way of
+ZIG|Sharp turn
+RUE|Regret
+TEE|Golf peg
+TOT|Toddler
+SUB|Long sandwich
+HAM|Overacting performer
+PEP|Energy
+PIP|Seed in an apple
+ROE|Fish eggs
+SOD|Grass squares
+WEE|Tiny
+YEW|Evergreen shrub
+ODE|Poem of praise
+AWL|Hole-punching tool
+EON|Very long time
+GNU|African antelope
+NAG|Old horse
+NAN|Grandma, informally
+PAPA|Daddy

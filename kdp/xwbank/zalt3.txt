@@ -1,0 +1,445 @@
+# Extra clues for 3-letter answers (used when an answer repeats in a book). Format: ANSWER|clue|clue
+ACT|Do something|Perform on stage
+ADD|Total up|Put in more
+AGE|Grow older|Number on a birthday cake
+AGO|Back in time|"Long, long ___"
+AID|Lend a hand|First ___ kit
+AIM|Goal|Point, as a camera
+AIR|Breeze|Oxygen mix
+ALL|The whole lot|Everybody
+AND|Also|"Salt ___ pepper"
+ANT|Tiny worker insect|Colony insect
+ANY|Some|"___ questions?"
+APE|Copy|Gorilla, for one
+APT|Likely|Well-suited
+ARC|Rainbow shape|Half a circle
+ARE|Exist|"How ___ you?"
+ARM|Sleeve filler|Chair part
+ART|Gallery display|Creative work
+ASH|Shade tree|Gray powder
+ASK|Inquire|Request
+ATE|Dined|Snacked
+AWE|Amazement|Wonder
+AXE|Chopping tool|Lumberjack's tool
+BAD|Naughty|Spoiled
+BAG|Purse|Sack
+BAT|Night flier|Swing at a ball
+BAY|Small gulf|Laurel tree
+BED|Garden plot|Bunk
+BEE|Buzzing insect|Spelling ___
+BEG|Ask humbly|Sit up for a treat, like a dog
+BIB|Lobster dinner wear|Baby's napkin
+BID|Offer|Invite
+BIG|Huge|Grand
+BIN|Recycling box|Container
+BIT|Small amount|Horse's mouthpiece
+BOA|Large snake|Fluffy neck wrap
+BOB|Float on water|Bounce up and down
+BOG|Wet ground|Swamp
+BOW|Bend at the waist|Archer's tool
+BOX|Package|Carton
+BOY|Son|Lad
+BUD|Pal|Bloom-to-be
+BUG|Pester|Beetle
+BUN|Hair knot|Hamburger holder
+BUS|City transport|Clear dishes
+BUT|Except|Yet
+BUY|Bargain|Shop for
+BYE|Farewell|"So long!"
+CAB|Yellow car for hire|Truck's front
+CAN|Is able to|Tin
+CAP|Bottle top|Hat with a visor
+CAR|Sedan|Vehicle
+CAT|Kitten's mom|Tabby
+COB|Corn holder|Ear of corn center
+COD|Fish and chips fish|Atlantic fish
+COG|Wheel tooth|Machine part
+COT|Folding bed|Small bed
+COW|Dairy animal|Farm animal that moos
+COY|Bashful|Playfully shy
+CRY|Weep|Shout
+CUB|Lion's baby|Rookie reporter
+CUD|Cow's chew|Chewed food
+CUE|Hint|Pool stick
+CUP|Mug|Trophy
+CUT|Trim|Slice
+DAB|Light touch|Small bit
+DAD|Pop|Papa
+DAM|Beaver's work|River wall
+DAY|Sunrise to sunset|Date
+DEN|Fox's home|Family room
+DEW|Morning drops|Grass moisture
+DID|Achieved|Carried out
+DIG|Excavate|Garden chore
+DIM|Faint|Turn down the lights
+DIP|Quick swim|Salsa, for one
+DOE|Mother deer|Fawn's mom
+DOG|Puppy|Pooch
+DOT|Spot|Speck
+DRY|Not damp|Arid
+DUE|Expected|Owed
+DUG|Scooped|Shoveled
+DYE|Color|Tint
+EAR|Corn unit|Hearing organ
+EAT|Dine|Munch
+EBB|Recede|Go out, like the tide
+EEL|Snake-like fish|Slippery swimmer
+EGG|Hen's product|Breakfast item
+ELF|Small mischievous sprite|Little fellow in stories
+ELK|Big deer|Moose cousin
+ELM|Shade tree|Tall tree
+EMU|Flightless bird|Big bird down under
+END|Close|Final part
+ERA|Age|Time period
+ERR|Slip up|Goof
+EVE|Evening before|Day before
+EYE|Look at|Needle hole
+FAN|Supporter|Air cooler
+FAR|Distant|Way off
+FAT|Chubby|Plump
+FED|Gave a meal to|Nourished
+FEE|Price|Charge
+FEW|Not many|A small number
+FIG|Fruit in cookies|Sweet fruit
+FIN|Shark's part|Dorsal ___
+FIR|Tall evergreen|Conifer
+FIT|Healthy|In shape
+FIX|Mend|Repair
+FLU|Bug going around|Fever cause
+FLY|Soar|Travel by plane
+FOE|Rival|Opponent
+FOG|Mist|Haze
+FOR|On behalf of|Supporting
+FOX|Bushy-tailed animal|Clever animal
+FRY|Cook in a pan|Sizzle
+FUN|Amusement|Good times
+FUR|Pet's coat|Thick hair
+GAP|Space|Opening in a fence
+GAS|Fuel|Air, for one
+GEL|Set, like jelly|Hair goo
+GEM|Jewel|Treasure
+GET|Obtain|Receive
+GUM|Chewing ___|Sticky stuff
+GUT|Tummy|Instinct
+GUY|Man|Fellow
+GYM|Fitness center|Workout spot
+HAD|Possessed|Ate
+HAT|Cap|Bonnet
+HAY|Dried grass|Barn bale
+HEN|Chicken|Mother bird
+HER|That woman|Belonging to a woman
+HEW|Cut with an axe|Chop down
+HID|Kept out of sight|Concealed
+HIM|That man|Not her
+HIP|Trendy|Body joint
+HIS|Belonging to him|Not hers
+HIT|Smash success|Strike
+HOE|Weed remover|Garden tool
+HOP|Jump on one foot|Bunny move
+HOT|Spicy|Very warm
+HOW|In what way|"___ are you?"
+HUB|Center|Wheel center
+HUE|Color|Tint
+HUG|Squeeze|Embrace
+HUM|Buzz|Drone
+HUT|Cabin|Shack
+ICE|Cool a drink|Frozen water
+ICY|Freezing|Frosty
+ILL|Unwell|Sick
+INK|Pen filler|Printer fluid
+INN|Lodge|Small hotel
+ION|Atom with a charge|Particle
+IRE|Rage|Wrath
+ITS|Belonging to it|"The dog wagged ___ tail"
+IVY|Wall climber|Climbing plant
+JAM|Traffic snarl|Jelly
+JAR|Jelly holder|Container with a lid
+JAW|Chin|Mouth bone
+JAY|Noisy bird|Blue ___
+JET|Airplane|Spurt
+JOB|Task|Work
+JOG|Run slowly|Trot
+JOT|Note|Scribble
+JOY|Delight|Glee
+JUG|Pitcher|Water holder
+KEY|Important|Answer list
+KID|Joke|Youngster
+KIN|Family|Relatives
+KIT|Set of supplies|Sewing ___
+LAB|Research room|Science room
+LAD|Boy|Young man
+LAG|Delay|Fall behind
+LAP|Where a cat sits|Lick up
+LAW|Rule|Statute
+LAY|Place|Put
+LED|Guided|Headed
+LEG|Limb|Table support
+LET|Allow|Permit
+LID|Jar top|Cover
+LIE|Fib|Rest
+LIP|Rim|Mouth part
+LIT|Aglow|Lighted
+LOG|Tree trunk piece|Ship's diary
+LOT|Plenty|Parking area
+LOW|Soft, as a voice|Moo
+MAD|Upset|Cross
+MAN|Grown-up male|Fellow
+MAP|Chart|Atlas page
+MAT|Doormat|Rug
+MAY|Might|Spring month
+MEN|Guys|Fellows
+MET|Encountered|Came across
+MIX|Blend|Stir
+MOB|Crowd|Throng
+MOM|Ma|Mother
+MOP|Shaggy hair|Wipe the floor
+MUD|Muck|Mire
+MUG|Cup|Coffee holder
+NAP|Snooze|Short rest
+NET|Mesh|Catch
+NEW|Fresh|Brand-new
+NIB|Pen tip|Point
+NOD|Agree silently|Bow the head
+NOR|"Neither here ___ there"|And not
+NOT|In no way|By no means
+NOW|At once|Right away
+NUT|Acorn|Bolt's partner
+OAK|Sturdy tree|Hardwood tree
+OAR|Paddle|Rowboat need
+OAT|Grain|Oatmeal grain
+ODD|Strange|Not even
+OFF|Away|Turned ___
+OFT|Frequently, in poems|Often
+OIL|Lubricate|Olive ___
+OLD|Aged|Elderly
+ONE|Single|Unit
+OPT|Choose|Decide
+ORB|Ball|Sphere
+ORE|Rock with metal|Mined rock
+OUR|Belonging to us|"___ house"
+OUT|Not in|Away
+OWE|Be in debt|Have a bill
+OWL|Hooter|Wise bird
+OWN|Have|Possess
+PAD|Cushion|Notepad
+PAL|Friend|Chum
+PAN|Skillet|Cooking pot
+PAT|Light touch|Tap
+PAW|Cat's foot|Animal's foot
+PAY|Salary|Settle up
+PEA|Pod item|Green veggie
+PEG|Hook|Clothes ___
+PEN|Animal enclosure|Writer's tool
+PET|Stroke|Dog or cat
+PIE|Baked dessert|Pastry
+PIN|Brooch|Bowling target
+PIT|Hole|Cherry stone
+POD|Seed case|Group of whales
+POT|Pan|Kettle
+PRY|Be nosy|Open with a crowbar
+PUP|Baby seal|Young dog
+PUT|Set|Place
+RAG|Duster|Old cloth
+RAM|Male sheep|Charge into
+RAN|Hurried|Sprinted
+RAT|Rodent|Mouse's cousin
+RAW|Uncooked|Sore
+RAY|Sunbeam|Beam
+RED|Rosy color|Ruby color
+RIB|Tease|Chest bone
+RID|Free of|Clear
+RIM|Edge|Brim
+RIP|Tear|Split a seam
+ROD|Curtain ___|Pole
+ROT|Spoil|Decay
+ROW|Line|Paddle
+RUB|Massage|Polish
+RUG|Floor mat|Carpet
+RUN|Jog|Dash
+RUT|Groove|Routine
+RYE|Grain|Bread grain
+SAD|Blue|Gloomy
+SAG|Droop|Sink
+SAP|Maple tree fluid|Sticky tree juice
+SAT|Was seated|Rested
+SAW|Spotted|Cutting tool
+SAY|Speak|Utter
+SEA|Ocean|Salt water
+SEE|Look|Spot
+SET|Group|Put down
+SEW|Stitch|Mend
+SHE|That lady|Her
+SHY|Timid|Bashful
+SIP|Taste|Drink slowly
+SIR|Gentleman|Polite title
+SIT|Be seated|Take a chair
+SIX|Half a dozen|Number of sides on a cube
+SKI|Glide on snow|Snow glider
+SKY|Blue overhead|Where kites fly
+SLY|Cunning|Crafty
+SOB|Weep|Cry loudly
+SON|Boy|Male child
+SOY|Bean|Tofu bean
+SPA|Health resort|Hot tub place
+STY|Eye swelling|Eyelid bump
+SUM|Total|Add up
+SUN|Star we see by day|Bright daytime star
+TAB|Restaurant bill|Pull-top on a can
+TAG|Label|Price ___
+TAN|Brown|Golden glow
+TAP|Light knock|Faucet
+TAR|Road goo|Black goo
+TEA|Hot drink|Afternoon drink
+TEN|Number of toes|Two fives
+THE|Definite article|Word before "end"
+TIE|Draw|Necktie
+TIN|Can|Metal can
+TIP|Hint|Point
+TOE|Foot part|Foot digit
+TON|Very heavy weight|Lots
+TOO|Also|As well
+TOP|Lid|Summit
+TOW|Pull|Tug
+TOY|Plaything|Teddy bear, for one
+TRY|Attempt|Give it a go
+TUB|Bathtub|Container
+TUG|Pull|Yank
+TWO|Pair|Couple
+URN|Big pot|Coffee ___
+USE|Employ|Put to work
+VAN|Delivery truck|Minibus
+VAT|Large tub|Big tank
+VET|Pet doctor|Check carefully
+VOW|Promise|Pledge
+WAG|Wiggle|Joker
+WAX|Polish|Candle stuff
+WAY|Method|Road
+WET|Soaked|Rainy
+WHO|What person|"___ is it?"
+WHY|Reason|For what reason
+WIG|Hairpiece|Fake hair
+WIN|Victory|Triumph
+WIT|Humor|Cleverness
+WOK|Chinese pan|Stir-fry pan
+WON|Triumphed|Came in first
+WOW|"Gee!"|"Amazing!"
+YAK|Chatter|Tibetan ox
+YAM|Sweet potato|Orange root vegetable
+YAP|Yip|Bark
+YES|Okay|Sure
+YET|So far|Still
+YOU|Not me|Yourself
+ZAP|Microwave|Jolt
+ZIP|Close up|Zipper
+ZOO|Animal park|Animal place
+AHA|"Eureka!"|"I see!"
+YUM|"Delicious!"|"Tasty!"
+OOH|Sound of wonder|Delight sound
+HEY|"Hi!"|"Over here!"
+TAX|Levy|Fee
+GAL|Lady|Woman
+EKE|Barely make, with "out"|Squeeze, with "out"
+NAB|Grab|Catch
+MAR|Scratch|Spoil
+TAD|Little bit|Small amount
+VIA|Through|By way of
+RUE|Regret|Be sorry for
+TEE|T-shirt|Golf peg
+TOT|Toddler|Little child
+SUB|Stand-in|Hero sandwich
+PEP|Energy|Vigor
+PIP|Seed|Small seed
+ROE|Fish eggs|Caviar
+SOD|Lawn turf|Grass squares
+WEE|Tiny|Very small
+YEW|Evergreen|Shrub
+ODE|Poem|Lyric poem
+AWL|Leather tool|Punching tool
+EON|Ages|Long stretch of time
+GNU|Antelope|Wildebeest
+NAG|Pester|Old horse
+NAN|Grandma|Granny
+AFT|Rear of a ship|At the back
+AIL|Be sick|Trouble
+ALP|Mountain|Swiss peak
+AMP|Electric unit|Boost, with "up"
+APP|Smartphone program|Phone software
+ASP|Snake|Small snake
+AYE|Yes|Sailor's yes
+BAA|Sheep sound|Lamb's sound
+BAM|"Kapow!"|"Pow!"
+BRR|"It's freezing!"|"Cold!"
+CAW|Crow's sound|Raven's call
+COO|Pigeon sound|Dove's sound
+DIN|Uproar|Racket
+EGO|Self-esteem|Self
+EWE|Mother sheep|Female sheep
+FAD|Trend|Craze
+FIB|Fudge the truth|Small lie
+GAB|Chat|Talk
+GAG|Joke|Prank
+GEE|"Wow!"|"Gosh!"
+GOO|Slime|Sticky stuff
+HEM|Sew an edge|Edge of fabric
+HUH|"Eh?"|"What's that?"
+ICK|"Gross!"|"Yuck!"
+JAB|Poke|Elbow nudge
+LAX|Slack|Careless
+LEI|Flower garland|Hawaiian necklace
+LOB|Gentle toss|High toss
+LYE|Strong cleaner|Soap ingredient
+MEW|Meow|Kitten's cry
+MID|Center|Middle
+MOO|Cow's call|Barnyard sound
+MUM|Quiet|Silent
+NAY|No vote|Vote against
+NIL|Zero|Nothing
+NUB|Knob|Small bump
+OAF|Lout|Clumsy fellow
+OHM|Electrical unit|Unit of resistance
+PAR|Average|Golf standard
+POP|Burst|Soda
+PRO|Expert|Professional
+PUG|Small dog breed|Flat-faced dog
+PUN|Wordplay|Play on words
+RAH|"Go team!"|Cheer
+REF|Umpire|Game official
+REV|Speed up|Race an engine
+SHH|"Hush!"|"Quiet!"
+SIS|Sister|Sister, for short
+TIC|Twitch|Spasm
+TOM|Male turkey|Male cat
+TOR|Rocky peak|Rocky hill
+TUX|Black-tie suit|Formal suit
+UGH|"Yuck!"|"Ick!"
+UMP|Baseball judge|Baseball official
+VEX|Irritate|Annoy
+VIE|Compete|Contend
+WAD|Bundle of cash|Lump
+WOE|Grief|Sorrow
+WRY|Dry, as humor|Twisted
+YAY|"Hooray!"|"Yippee!"
+YEN|Longing|Strong desire
+YIP|Puppy's bark|Short bark
+YUP|"Yes!"|"Sure!"
+LEE|Sheltered side|Shelter
+SUP|Dine|Eat supper
+NIX|Veto|Say no to
+DOH|"Oops!"|"Silly me!"
+BOO|Hiss|Jeer
+TUT|"Tsk!"|"Shame on you!"
+MAC|Raincoat|Raincoat, briefly
+OPS|Photo ___|Photo ___
+DOS|Hairdos|Hairstyles
+PEC|Chest muscle|Chest muscle, for short
+ABS|Belly muscles|Stomach muscles
+ADS|Commercials|Classifieds
+AHS|Sighs of contentment|Sighs of relief
+ARF|Woof|Dog's bark
+BOP|Tap|Bonk
+EEK|"Yikes!"|"A mouse!"
+FAX|Send by phone line|Copy sent by phone line
+INS|Connections|Ways in
+ZIT|Pimple|Blemish
+BAA|Bleat
+SAP|Drain, as energy
